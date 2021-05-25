@@ -121,3 +121,4 @@
 > sum(xpathSApply(node, "//zipcode", xmlValue)==21231)
 [1] 127
 ```
+```
